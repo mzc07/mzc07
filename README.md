@@ -13,3 +13,5 @@
 ###
 
 ![mzc07's Stats](https://github-readme-stats.vercel.app/api?username=mzc07&theme=dark&show_icons=true&hide_border=false&count_private=false)
+![mzc07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mzc07&theme=dark&hide_border=false)
+![mzc07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzc07&theme=dark&show_icons=true&hide_border=false&layout=compact)
