@@ -11,3 +11,5 @@
 </p>
 
 ###
+
+![mzc07's Stats](https://github-readme-stats.vercel.app/api?username=mzc07&theme=dark&show_icons=true&hide_border=false&count_private=false)
