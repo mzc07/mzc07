@@ -2,8 +2,8 @@
 <h3 align="center">Data Engineer · Colombia</h3>
 
 <p align="center">
-  Construyo pipelines de datos, modelos ML y soluciones de IA aplicada.<br>
-  Disponible para roles en Data Engineering, ML Engineering o Data Science.
+  Estudiante de Ingeniería en Ciencia de Datos con enfaśis en ML y Pipelines<br>
+  Buscando aprendizaje continuo y nuevas oportunidades de desarrollo.
 </p>
 
 ---
